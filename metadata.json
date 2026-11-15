@@ -1,0 +1,6 @@
+{
+  "name": "TeamForge Synapse",
+  "description": "Next-gen hackathon team matchmaking and collaborative venture assembly engine with live telemetry and radar matchmaking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
